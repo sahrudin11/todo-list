@@ -16,7 +16,7 @@
 <style>
   body{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: rgb(17, 66, 20);
+    background-color: rgba(28, 28, 64, 0.877);
     color: white;
     box-sizing: border-box;
   }
